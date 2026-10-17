@@ -27,3 +27,4 @@ Option B : en ligne de commande
 
 Le fichier `vercel.json` gère déjà la redirection des routes vers `index.html`.
 "# solay-beauty" 
+"# solay_beauty" 
